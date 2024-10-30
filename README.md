@@ -1,5 +1,5 @@
-## Hey 👋, [![Gmail Badge](https://img.shields.io/badge/-suwai01225@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:suwai01225@gmail.com)](mailto:suwai01225@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-Su Wai-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Su Wai/)](https://www.linkedin.com/in/Su Wai/) [![Github Badge](https://img.shields.io/badge/-Suwai06-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Suwai06/)](https://www.github.com/Suwai06/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=Suwai06/Suwai06/)](Suwai06/Suwai06/) <p align='left'>👋 Hi, I'm Su Wai!
+## Hey 👋, This is Su Wai
+[![Github Badge](https://img.shields.io/badge/-Suwai06-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Suwai06/)](https://www.github.com/Suwai06/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=Suwai06/Suwai06/)](Suwai06/Suwai06/) <p align='left'>👋 Hi, I'm Su Wai!
 I’m an Operations Coordinator transitioning into a Business Intelligence Analyst role, leveraging over 4 years of experience in operations and data-driven decision-making. My passion lies in data analysis, visualization, and helping companies make informed business decisions using tools like Power BI, Tableau, and SQL.
 
 🚀 About Me
