@@ -25,7 +25,10 @@ Data Storytelling: Crafting narratives that inform decision-making
 
 ✨ Fun Facts
 My friends call me a "future aesthetician" because I’m passionate about skincare and love giving advice!
+
 I’m a dedicated cat lover and enjoy spending time with my feline friends.
+
+
 📈 What's Next?
 I’m actively seeking opportunities to apply my Business Intelligence skills and make a meaningful impact with data-driven strategies. Let’s connect!
 
