@@ -1,43 +1,50 @@
-## Hey 👋, This is Su Wai
-[![Github Badge](https://img.shields.io/badge/-Suwai06-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Suwai06/)](https://www.github.com/Suwai06/) 
-[![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=Suwai06/Suwai06/)](Suwai06/Suwai06/)
+# 👋 Hi, I'm Su Wai  
 
-<p align='left'>
-👋 Hi, I'm Su Wai!  
-I’m an Operations Coordinator transitioning into a Business Intelligence Analyst role, leveraging over 4 years of experience in operations and data-driven decision-making. My passion lies in data analysis, visualization, and helping companies make informed business decisions using tools like Power BI, Tableau, and SQL.
+[![LinkedIn Badge](https://img.shields.io/badge/-SuWai-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/suwai1225)](https://www.linkedin.com/in/suwai1225)  
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/yourgithubusername)](https://github.com/yourgithubusername)  
+[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-green?style=flat-square&logo=google-chrome&logoColor=white&link=https://yourportfolio.com)](https://yourportfolio.com)  
 
-🚀 **About Me**  
-Currently, I work at Elegant Swiss Co where I manage logistics, inventory, and analyze operational data to drive process improvements. In 2023, I completed a comprehensive Business Intelligence Analytics program with TripleTen, where I gained hands-on experience in:
+---
 
-- Google Sheets (Excel)
-- SQL
-- Data Visualization (Power BI, Tableau)
+## 🚀 About Me  
+I’m an **Operations Coordinator transitioning into a Business Intelligence Analyst** role, with 4+ years of experience in **operations, logistics, and data-driven decision-making**.  
 
-I thrive on turning raw data into actionable insights and solving business challenges with data-driven solutions.
+💡 My passion lies in:  
+- **Data Analysis & Visualization** (Power BI, Tableau, Excel)  
+- **SQL & Databases** (queries, optimization, data modeling)  
+- **Process Improvement** (efficiency, automation, insights)  
+- **Data Storytelling** (turning raw data into business impact)  
 
-🔧 **Skills**  
-- Data Analysis & Visualization: Power BI, Tableau, Excel
-- SQL: Writing and optimizing queries
-- Operational Efficiency: Improving processes through data
-- Data Storytelling: Crafting narratives that inform decision-making
+🎓 **Education**  
+- MS in Business Analytics (Incoming, Baruch College, Class of 2026)  
+- Business Intelligence Analytics Certificate, TripleTen (2023)  
 
-✨ **Fun Facts**  
-- My friends call me a "future aesthetician" because I’m passionate about skincare and love giving advice!
-- I’m a dedicated cat lover and enjoy spending time with my feline friends.
+---
 
-📈 **What's Next?**  
-I’m actively seeking opportunities to apply my Business Intelligence skills and make a meaningful impact with data-driven strategies. Let’s connect!
+## 🔧 Skills  
 
-📄 **Check out my Resume**  
-🔗 [Resume](https://docs.google.com/document/d/1dIPfMvylxVcclZTK8uZXUtOZTTBGIiA6/edit?usp=sharing&ouid=112155961338136359351&rtpof=true&sd=true) | [LinkedIn](https://www.linkedin.com/in/suwai1225) | [GitHub Projects](https://github.com/Suwai06)
-</p>
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=Power%20BI&logoColor=black)  
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)  
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=Microsoft-Excel&logoColor=white)  
 
-<p align='left'>
-<a href='mailto:suwai01225@gmail.com'><img src='https://img.shields.io/badge/-Email-%23D14836?style=flat&logo=gmail&logoColor=white' alt='Email'></a>
-<a href='https://www.linkedin.com/in/suwai1225'><img src='https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white' alt='LinkedIn'></a>
-<a href='https://docs.google.com/document/d/1dIPfMvylxVcclZTK8uZXUtOZTTBGIiA6/edit?usp=sharing&ouid=112155961338136359351&rtpof=true&sd=true'><img src='https://img.shields.io/badge/-Resume-%23333?style=flat&logo=google-drive&logoColor=white' alt='Resume'></a>
-</p>
+---
 
-<p align='left'>
-<img src='https://komarev.com/ghpvc/?username=Suwai06' alt='Suwai06' />
-</p>
+## 📂 Featured Projects  
+- 📊 [Superstore Returns Dashboard](#) – Identified causes of high return rates and recommended strategies with Tableau.  
+- 🍽️ [Zomato Restaurant Analysis](#) – Analyzed restaurant performance trends and revenue drivers.  
+- 🛒 [Shopify App Store BI](#) – Built insights dashboard in Power BI for app categories, reviews, and growth trends.  
+
+---
+
+## ✨ Fun Facts  
+- My friends call me a *“future aesthetician”* because I love skincare and giving product advice 💕.  
+- 🐱 Proud cat lover.  
+
+---
+
+## 📈 What’s Next?  
+I’m currently **seeking opportunities** in **Business Intelligence, Data Analytics, and Operations Analytics** where I can apply my skills to deliver meaningful impact.  
+
+📫 Let’s connect on [LinkedIn](https://www.linkedin.com/in/suwai1225)  
