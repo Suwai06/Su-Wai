@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Su Wai  
 
 [![LinkedIn Badge](https://img.shields.io/badge/-SuWai-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/suwai1225)](https://www.linkedin.com/in/suwai1225)  
-[![GitHub Badge](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/yourgithubusername)](https://github.com/yourgithubusername)  
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/Suwai06)](https://github.com/Suwai06)  
 [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-green?style=flat-square&logo=google-chrome&logoColor=white&link=https://yourportfolio.com)](https://yourportfolio.com)  
 
 ---
